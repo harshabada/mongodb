@@ -1,0 +1,4 @@
+{name:"harsha", gpa :8, rich: false}
+{name:"mahesh", gpa :9.5, rich: true}
+{name:"anurag", class :9, rich: true}
+{name:"narendra", class :8.5, rich: true}
